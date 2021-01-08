@@ -1,5 +1,8 @@
 # Disconnect
 
+Muhafız, web'i daha hızlı, daha özel ve daha güvenli hale getirmek için bir dizi güvenlik yazılımıdır. Muhafız-Kalkan ise bu gizli gizli bir dosya uzantısıdır.
+
+
 [Disconnect](https://disconnect.me/) is a browser extension that makes the web
 faster, more private, and more secure.
 
